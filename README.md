@@ -1,6 +1,6 @@
 # Palindrome Evaluator
 
-This project is a simple Java program that checks whether a given string is a palindrome. It was created to practice string processing and core Java programming concepts.
+This project is a simple Java program that checks whether a given string is a palindrome. It was created for CS 2500 - Computer Programming II to practice string processing and core Java programming concepts.
 
 ## Project Files
 
